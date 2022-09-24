@@ -1,0 +1,26 @@
+[
+    {
+        "sr": "2",
+        "firstName": "John",
+        "lastName": "Cena",
+        "age": "40",
+        "email": "john@example.com",
+        "contact": "1231231234"
+    },
+    {
+        "sr": "3",
+        "firstName": "Jonas",
+        "lastName": "Smith",
+        "age": "30",
+        "email": "jonS@example.com",
+        "contact": "123432199"
+    },
+    {
+        "sr": "4",
+        "firstName": "Leo",
+        "lastName": "Messi",
+        "age": "35",
+        "email": "lm10@mail.com",
+        "contact": "1010109183"
+    }
+]
